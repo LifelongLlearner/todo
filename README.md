@@ -44,6 +44,9 @@ You can also click the delete icon at the bottom right corner to remove the task
 📸 Screenshots
 Here are some screenshots of the app in action:
 
+![Screenshot (6)](https://github.com/user-attachments/assets/48e68880-cea4-4f79-96b5-6eee75ba6cf6)
+![Screenshot (5)](https://github.com/user-attachments/assets/54ac3b32-2625-4233-bbc7-0cb287e32492)
+
 
 
 🤝 Contributing
